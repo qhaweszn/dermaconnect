@@ -1,5 +1,7 @@
 
 -- ==========================================
+-- REFERENCE COPY: these policies are already applied in Supabase.
+-- Do not re-run this file on the live database; it will fail with "already exists".
 -- DERMA CONNECT RLS POLICIES
 -- Initial development security policies
 -- ==========================================
